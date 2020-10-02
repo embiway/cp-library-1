@@ -1,5 +1,5 @@
 /*
-    Depth first search is a very important algotrithm for graphs and trees
+    Depth first search is a very important algorithm for graphs and trees
 */
 
 #include <bits/stdc++.h>
